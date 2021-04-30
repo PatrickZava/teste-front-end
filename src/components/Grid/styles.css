@@ -1,0 +1,51 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #6c7ac9;
+}
+
+.pagination {
+  margin-top: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  cursor: pointer;
+  background-color: #FFF;
+  height: 80px;
+}
+
+.pagination a {
+  padding: 8px 20px;
+  border-radius: 4px;
+  border: 1px solid #E5E5E5;
+  margin-right: 16px;
+  background-color: #F5F5F5;
+  text-align: left;
+  font: normal normal normal 16px/19px PT Sans;
+  letter-spacing: 0px;
+  color: #555555;
+  opacity: 1;
+}
+
+
+.pagination__link {
+  background-color: #FFFFFF !important;
+  color: #555555 !important;
+  font-weight: bold !important;
+  border: 0 !important;  
+}
+
+.pagination__link--active a {
+  color: #FFFFFF;
+  background: #167ABC;
+  border: 1px solid #167ABC;
+}
+
+.pagination__link--disabled a {
+  color: rgb(198, 197, 202);
+  border: 1px solid rgb(198, 197, 202);
+}
