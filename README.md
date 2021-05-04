@@ -76,7 +76,6 @@ $ npm run start
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/15346014?v=4" width="100px;" alt=""/>
  <br />
  <sub> 💻 <b>Patrick Hernandez Zava</b></sub> 
- <br />
 
  [![Linkedin Badge](https://img.shields.io/badge/-Patrick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-zava/)](https://www.linkedin.com/in/patrick-zava/) 
 [![Gmail Badge](https://img.shields.io/badge/-patrickzava@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrickzava@gmail.com)](mailto:patrickzava@gmail.com)
